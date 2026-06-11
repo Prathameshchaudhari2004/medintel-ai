@@ -105,7 +105,7 @@ streamlit run app.py
 Open your browser at `http://localhost:8501`
 
 ### 5. For AI features
-Get a free API key from [console.anthropic.com](https://console.anthropic.com) and enter it in the sidebar.
+Get a free API key from [[console.anthropic.com](https://openrouter.ai/)]and enter it in the sidebar.
 
 ---
 
